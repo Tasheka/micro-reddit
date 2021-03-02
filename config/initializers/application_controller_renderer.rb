@@ -1,3 +1,4 @@
+# rubocop:disable Layout/EndOfLine
 # Be sure to restart your server when you modify this file.
 
 # ActiveSupport::Reloader.to_prepare do
@@ -6,3 +7,4 @@
 #     https: false
 #   )
 # end
+# rubocop:enable Layout/EndOfLine
